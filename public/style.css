@@ -1,0 +1,23 @@
+.ft a :hover {
+    color: rgb(247, 191, 38)
+}
+
+main {
+    margin-top: 150px;
+}
+
+.ft {
+    padding: 40px;
+}
+
+nav a {
+    font-weight: 1000;
+}
+
+.ft a {
+    color: aliceblue
+}
+
+.widget {
+    font-size: 40px
+}
